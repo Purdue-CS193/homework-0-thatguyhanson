@@ -11,3 +11,4 @@ My name is **Hanson Huang**, but I go by **Hanson Zhang**. I was born in New Yor
 - It allowed me to make this website!
 
 ![Ketchup](./pic.jpeg)
+![KirbyCat](./kirbycat.jpeg)

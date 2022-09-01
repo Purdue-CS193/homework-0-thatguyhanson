@@ -2,7 +2,7 @@
 ## Welcome to Hanson Huang's Website!
 
 ## Who am I?
-My name is **Hanson Huang**, but I go by **Hanson Zhang**. I was born in New York City and my parents are from Fuzhou, China. I am a freshman pursuing a major in Computer Science.
+Hello, my name is Hanson Huang. I am a freshman majoring in Computer Science. I was born in New York City but I lived in Michigan City, Indiana for most of my life. I am coming into Computer Science with barely any experience in programming, however, with the help of my friends I hope I can learn to program better by the end of this school year.
 
 ### My Favorite Things About CS193
 - It is an easy class
@@ -11,4 +11,5 @@ My name is **Hanson Huang**, but I go by **Hanson Zhang**. I was born in New Yor
 - It allowed me to make this website!
 
 ![Ketchup](./pic.jpeg)
+
 ![KirbyCat](./kirbycat.jpeg)
